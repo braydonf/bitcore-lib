@@ -64,8 +64,6 @@
     "bitcoin",
     "transaction",
     "address",
-    "p2p",
-    "ecies",
     "cryptocurrency",
     "blockchain",
     "payment",
@@ -73,7 +71,8 @@
     "bip32",
     "bip37",
     "bip69",
-    "bip70",
+    "bip141",
+    "bip143",
     "multisig"
   ],
   "repository": {
