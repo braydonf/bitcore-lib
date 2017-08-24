@@ -6,12 +6,12 @@ var should = require('chai').should();
 var expect = require('chai').expect;
 var _ = require('lodash');
 
-var bitcore = require('../..');
-var Transaction = bitcore.Transaction;
-var TransactionSignature = bitcore.Transaction.Signature;
-var Script = bitcore.Script;
-var PrivateKey = bitcore.PrivateKey;
-var errors = bitcore.errors;
+var btc = require('../..');
+var Transaction = btc.Transaction;
+var TransactionSignature = btc.Transaction.Signature;
+var Script = btc.Script;
+var PrivateKey = btc.PrivateKey;
+var errors = btc.errors;
 
 describe('TransactionSignature', function() {
 
