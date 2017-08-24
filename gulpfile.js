@@ -50,7 +50,7 @@ function ignoreerror() {
 }
 
 var browser = true;
-var fullname = 'btcjs';
+var fullname = 'btc';
 var files = ['lib/**/*.js'];
 var tests = ['test/**/*.js'];
 var alljs = files.concat(tests);

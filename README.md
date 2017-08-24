@@ -28,7 +28,7 @@ To build a btcjs full bundle for the browser:
 gulp browser
 ```
 
-This will generate files named `btcjs.js` and `btcjs.min.js`.
+This will generate files named `btc.js` and `btc.min.js`.
 
 ## License
 
