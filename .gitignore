@@ -21,3 +21,5 @@ btc.min.js
 btc.js.sig
 btc.min.js.sig
 tests.js
+
+.tern-port
